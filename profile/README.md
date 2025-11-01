@@ -10,4 +10,4 @@ A mediocre Minecraft (Neo) Forge/Bukkit development organization
 
 ## Projects currently under development (comming soon)
 
-[[!Tritium](https://github-readme-stats.vercel.app/api/pin/?username=CraftAmethyst&repo=Tritium)](https://github.com/CraftAmethyst/Tritium)
+[![Tritium](https://github-readme-stats.vercel.app/api/pin/?username=CraftAmethyst&repo=Tritium)](https://github.com/CraftAmethyst/Tritium)
