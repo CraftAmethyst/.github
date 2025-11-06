@@ -2,6 +2,10 @@
 
 A mediocre Minecraft (Neo) Forge/Bukkit development organization
 
+## Join us
+
+We welcome anyone to join if you want. You can send an email to caorg@autumnbreeze.xyz to indicate your intentions.
+
 ## Main projects
 
 [![Luminara](https://github-readme-stats.vercel.app/api/pin/?username=CraftAmethyst&repo=Luminara)](https://github.com/CraftAmethyst/Luminara)
